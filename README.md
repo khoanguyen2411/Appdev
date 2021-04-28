@@ -35,7 +35,7 @@ Table of contents:
 	3.1 Open command window.
 	3.2 Go to the application file, using command line *cd appdev*.
 	3.3 Listing all files in this folder, using command line *ls -l*.
-		(There should be 7 files including 1 .wav file, 5 .c files, 1 .h files and 1 makefile)
+		(There should be 7 files including 5 .c files, 1 .h files and 1 makefile)
 	3.4 Open Visual Studio Code and open folder appdev.
 	3.5 Open terminal window.
 	3.6 Compile all .c files using command gcc *.c.
